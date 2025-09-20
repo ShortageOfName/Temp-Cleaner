@@ -1,7 +1,8 @@
 @echo off
 echo =========================================
-echo  Temp Cleaner + Browser + Windows Update
+echo      Temp Cleaner - Run as Admin
 echo =========================================
+echo.
 
 :: Temp folders
 del /q /f /s "%TEMP%\*" 2>nul
@@ -29,6 +30,7 @@ rd /s /q "%localappdata%\Google\Chrome\User Data\Default\Code Cache" 2>nul
 del /q /f /s "C:\Windows\SoftwareDistribution\Download\*" 2>nul
 del /q /f /s "C:\Windows\SoftwareDistribution\DataStore\*" 2>nul
 
-echo.
-echo Temp, browser, and Windows Update cache cleaned!
+echo =========================================
+echo           Cleanup Finished!
+echo =========================================
 pause
