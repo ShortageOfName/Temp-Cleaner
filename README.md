@@ -18,7 +18,7 @@
 - Clears **Microsoft Edge** & **Google Chrome** caches  
 - Removes **Windows Update** cache  
 - Runs **background system maintenance tasks** (`ProcessIdleTasks`)  
-- Available as both `.bat` (open-source) and `.exe` (compiled, runs with admin by default)  
+- Available as both `.bat` (open-source) and `.exe` (compiled, runs as admin by default)  
 
 ---
 
