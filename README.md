@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ![Version](https://img.shields.io/badge/version-1.1.0-orange)  
 
-**Temp-Cleaner** is a lightweight and open-source Windows cleaner script that helps you free up disk space and improve performance by removing unnecessary files and caches.  
+**Temp-Cleaner** is a lightweight and open-source Windows cleaner script that helps you free up disk space, junks and improve performance by removing unnecessary files and caches.  
 
 ---
 
