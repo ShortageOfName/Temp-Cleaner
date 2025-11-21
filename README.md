@@ -40,7 +40,7 @@
 
 ## 📌 Notes  
 
-- This tool is **safe to use** – it only clears temporary/cache files and Windows Update leftovers.  
+- This tool is **safe to use** - it only clears temporary/cache files and Windows Update leftovers.  
 - No system-critical files are deleted.  
 - Best used before/after installing updates or when system feels slow.  
 
