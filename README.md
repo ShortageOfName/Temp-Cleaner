@@ -1,4 +1,4 @@
-# 🧹 Temp-Cleaner
+# Temp-Cleaner
 
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
